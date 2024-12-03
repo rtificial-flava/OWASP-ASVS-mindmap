@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "viewer -i . -o ./gh-pages -p -t OWASP-ASVS-mindmap"
+  },
+  "devDependencies": {
+    "embed-viewer": "^1.0.19"
+  }
+}
